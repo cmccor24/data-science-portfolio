@@ -10,3 +10,4 @@ This website will document my learning and projects throughout the semester.
 - [Blog](blog.md)
 - [Projects](projects.md)
 - [Resume](Resume.docx)
+- [NBA Winning Project](portfolioproject.ipynb)
